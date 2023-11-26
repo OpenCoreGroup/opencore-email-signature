@@ -18,10 +18,10 @@ This repo will serve as a guide to help create your official OpenCore Group emai
 5. Click on the blank space in the browser window, and then perform `Ctrl + A` to select all the contents in the window. After everything is selected, peform `Ctrl + C` the copy the signature  
    ![Selecting and copying the signature](/tutorial_images/selectedsig.png)
 
-6. Navigate to your Gmail dashboard, and look for the Settings icon. Click _See all settings_  
+6. Navigate to your Gmail dashboard, and look for the Settings icon. Click `⚙️ > See all settings` 
    ![Navigating to Gmail settings](/tutorial_images/settingscog.png)
 
-7. Search for the email signature settings, create a new template, and paste the copied code from earlier into the input box. Make sure to select the template you just made for the _FOR NEW EMAILS USE_ and _ON REPLY/FORWARD USE_ settings. Save the changes and navigate back to the Gmail dashboard  
+7. Search for the email signature settings, create a new template, and paste the copied code from earlier into the input box. Make sure to select the template you just made for the `FOR NEW EMAILS USE` and `ON REPLY/FORWARD USE` settings. Save the changes and navigate back to the Gmail dashboard  
    ![Creating the signature in Gmail](/tutorial_images/createsig.png)
 
 8. Compose a new email and confirm everything is correct  
