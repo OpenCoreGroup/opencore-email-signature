@@ -26,3 +26,6 @@ This repo will serve as a guide to help create your official OpenCore Group emai
 
 8. Compose a new email and confirm everything is correct  
    ![Testing the signature](/tutorial_images/testemail.png)
+
+## Developer Reference
+- https://www.pinpointe.com/blog/email-campaign-html-and-css-support/
